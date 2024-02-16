@@ -1,0 +1,9 @@
+server:
+  port: 8099
+spring:
+  main:
+    web-application-type: REACTIVE
+    web-environment: false
+    allow-bean-definition-overriding: true
+  application:
+    name: spring3teste
